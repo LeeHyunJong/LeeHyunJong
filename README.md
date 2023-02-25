@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 
+LEE Hyunjong
+
 - 🔭 I’m currently a PhD student at SNU
 - 🌱 I’m currently learning statistics
 <!--
